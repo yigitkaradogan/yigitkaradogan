@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yiğit Ali Karadoğan</h1>
+<h1 align="left">Hi 👋, I'm Yiğit Ali Karadoğan</h1>
 - 📫 How to reach me **yigitkaradogann@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
